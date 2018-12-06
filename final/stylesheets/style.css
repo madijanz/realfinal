@@ -1,0 +1,130 @@
+
+
+h4 {
+	text-align: center;
+	margin-left: 25%
+	margin-right: 25%;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 500px;
+}
+
+.center2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30px;
+	height: 30px;
+}
+
+.center3 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50px;
+	height: 50px;
+}
+
+.bigandred {
+	font-size: 25px;
+	color: red;
+}
+
+h5 {
+	display: block;
+	margin-left: 45%;
+	margin-right: auto;
+
+}
+
+a {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 2%;
+	height: 50px;
+}
+
+p{
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#subscribe {
+	display: block;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+
+}
+
+hr {
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.Btn {
+	text-align: center;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+a:active {
+	color: black;
+	text-decoration: none;
+}
+
+@font-face {
+    font-family: 'MyFont'; 
+    src: url('https://app.prototypo.io/#/library/home?mode=personal'); 
+}
+
+.myFont {
+    font-family: 'MyFont';
+}
+
+.hero-section {
+  background: url("https://news.fordham.edu/wp-content/uploads/2017/06/Magazine_Lauren_Duca_DMP_5204.jpg") 50% no-repeat;
+  background-size: cover;
+  height: 60vh;
+  text-align: center;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.hero-section .hero-section-text {
+  color: #fefefe;
+  text-shadow: 1px 1px 2px #0a0a0a;
+}
+
+
+
+
+
